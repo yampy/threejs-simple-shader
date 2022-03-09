@@ -1,4 +1,4 @@
-# Three.js Simple Shader
+# Three.js Water Caustics
 
 ## Install
 ```
@@ -21,4 +21,4 @@ npm run deploy
 ```
 
 ## URL
-[Guthub Page](https://yampy.github.io/threejs-simple-shader/)
+[Guthub Page](https://yampy.github.io/threejs-water-caustics/)
